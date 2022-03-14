@@ -8,5 +8,6 @@ public class SacondTest {
     @Test
     void secondTest() {
         Assertions.assertTrue(true);
+        System.out.println("Cool");
     }
 }
